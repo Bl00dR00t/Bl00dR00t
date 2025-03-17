@@ -1,6 +1,4 @@
-nvidia h100s
-Statuscode zweihundert! Fühle mich verrückt und ängstlich!!
-Danke!!!
+h100s
 
 <!---
 Bl00dR00t/Bl00dR00t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
